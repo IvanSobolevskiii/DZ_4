@@ -1,0 +1,14 @@
+C:\Users\Админ\Desktop\GeekBrains обучение\Знакомство с языками программирования\DZ_4\Task_2\bin\Debug\net8.0\Task_2.exe
+C:\Users\Админ\Desktop\GeekBrains обучение\Знакомство с языками программирования\DZ_4\Task_2\bin\Debug\net8.0\Task_2.deps.json
+C:\Users\Админ\Desktop\GeekBrains обучение\Знакомство с языками программирования\DZ_4\Task_2\bin\Debug\net8.0\Task_2.runtimeconfig.json
+C:\Users\Админ\Desktop\GeekBrains обучение\Знакомство с языками программирования\DZ_4\Task_2\bin\Debug\net8.0\Task_2.dll
+C:\Users\Админ\Desktop\GeekBrains обучение\Знакомство с языками программирования\DZ_4\Task_2\bin\Debug\net8.0\Task_2.pdb
+C:\Users\Админ\Desktop\GeekBrains обучение\Знакомство с языками программирования\DZ_4\Task_2\obj\Debug\net8.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\GeekBrains обучение\Знакомство с языками программирования\DZ_4\Task_2\obj\Debug\net8.0\Task_2.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\GeekBrains обучение\Знакомство с языками программирования\DZ_4\Task_2\obj\Debug\net8.0\Task_2.AssemblyInfo.cs
+C:\Users\Админ\Desktop\GeekBrains обучение\Знакомство с языками программирования\DZ_4\Task_2\obj\Debug\net8.0\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\GeekBrains обучение\Знакомство с языками программирования\DZ_4\Task_2\obj\Debug\net8.0\Task_2.dll
+C:\Users\Админ\Desktop\GeekBrains обучение\Знакомство с языками программирования\DZ_4\Task_2\obj\Debug\net8.0\refint\Task_2.dll
+C:\Users\Админ\Desktop\GeekBrains обучение\Знакомство с языками программирования\DZ_4\Task_2\obj\Debug\net8.0\Task_2.pdb
+C:\Users\Админ\Desktop\GeekBrains обучение\Знакомство с языками программирования\DZ_4\Task_2\obj\Debug\net8.0\Task_2.genruntimeconfig.cache
+C:\Users\Админ\Desktop\GeekBrains обучение\Знакомство с языками программирования\DZ_4\Task_2\obj\Debug\net8.0\ref\Task_2.dll
